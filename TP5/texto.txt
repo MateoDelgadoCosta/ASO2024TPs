@@ -1,0 +1,3 @@
+Este es un texto de ejemplo, para contar lineas
+palabras
+y caracteres.
