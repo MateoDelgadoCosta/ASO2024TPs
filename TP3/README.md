@@ -61,5 +61,5 @@ int main(int argc, char *argv[])
 }
 ```
 
-c)
-![2c](https://github.com/zCosmi/ASO2024TPs/assets/150198701/d9e83ac5-380d-4bcf-92ee-7f5c7cd8beda)
+b)
+![2B](https://github.com/zCosmi/ASO2024TPs/assets/150198701/f3686f19-9773-4694-917d-a3dfba1b1357)
