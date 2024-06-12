@@ -1,0 +1,4 @@
+Hola, para ejecutar los scripts del TP5 de Arquitectura y Sistemas Operativos, deberas contar con un sistema con linux o subsistema en Windows con Linux.
+Estos rchivos ya cuentan con los permisos de ejecucion, por lo tanto, para ejecutar cada uno, deberemos dirigirnos a donde hayamos descargado los archivos y utilizar el comando ./nombre_del_script.sh. Por ejemplo: ./clima.sh.
+El script "contpal", cuenta las palabras, lineas y caracteres ingresadas en el archivo "texto.txt".
+EL script "clima", muestra un menu en el que deberemos seleccionar la ciudad que queramos de las que se muestren en pantalla y nos mostrara el clima actual de la misma.
